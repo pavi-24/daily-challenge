@@ -1,0 +1,4 @@
+Q1.Write a C Program to print pass/fail result based on marks.
+Q2.Write a C Program to find area of Rectangle, Square, triangle and circle.
+Q3.Write a C Program to find the distance between two points.
+Q4.Write a C Program to Calculate Simple Interest.
